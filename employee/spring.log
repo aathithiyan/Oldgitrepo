@@ -1,0 +1,113 @@
+2020-11-10 08:33:48.715  INFO 19016 --- [main] c.e.e.EmployeePortalApplicationTests     : Starting EmployeePortalApplicationTests on VDELT095 with PID 19016 (started by aathithiyan.k in D:\employee-portal)
+2020-11-10 08:33:48.722  INFO 19016 --- [main] c.e.e.EmployeePortalApplicationTests     : No active profile set, falling back to default profiles: default
+2020-11-10 08:33:50.958  INFO 19016 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 08:33:51.485  INFO 19016 --- [main] c.e.e.EmployeePortalApplicationTests     : Started EmployeePortalApplicationTests in 3.204 seconds (JVM running for 6.113)
+2020-11-10 08:33:52.300  INFO 19016 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-10 08:43:34.446  INFO 18668 --- [main] c.e.e.EmployeePortalApplicationTests     : Starting EmployeePortalApplicationTests on VDELT095 with PID 18668 (started by aathithiyan.k in D:\employee-portal)
+2020-11-10 08:43:34.447  INFO 18668 --- [main] c.e.e.EmployeePortalApplicationTests     : No active profile set, falling back to default profiles: default
+2020-11-10 08:43:36.577  INFO 18668 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 08:43:37.006  INFO 18668 --- [main] c.e.e.EmployeePortalApplicationTests     : Started EmployeePortalApplicationTests in 2.872 seconds (JVM running for 4.05)
+2020-11-10 08:43:37.628  INFO 18668 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-10 09:10:42.818  INFO 5272 --- [main] c.e.e.EmployeePortalApplication          : Starting EmployeePortalApplication on VDELT095 with PID 5272 (D:\employee-portal\target\classes started by aathithiyan.k in D:\employee-portal)
+2020-11-10 09:10:42.845  INFO 5272 --- [main] c.e.e.EmployeePortalApplication          : No active profile set, falling back to default profiles: default
+2020-11-10 09:10:44.088  INFO 5272 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-10 09:10:44.096  INFO 5272 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-10 09:10:44.097  INFO 5272 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 09:10:44.203  INFO 5272 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-10 09:10:44.203  INFO 5272 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1310 ms
+2020-11-10 09:10:44.738  INFO 5272 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 09:10:45.037  WARN 5272 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2020-11-10 09:10:45.038  INFO 5272 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-10 09:10:45.041  INFO 5272 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2020-11-10 09:10:45.052  INFO 5272 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-11-10 09:10:45.054 ERROR 5272 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2020-11-10 09:33:02.517  INFO 2468 --- [main] c.e.e.EmployeePortalApplicationTests     : Starting EmployeePortalApplicationTests on VDELT095 with PID 2468 (started by aathithiyan.k in D:\employee-portal)
+2020-11-10 09:33:02.519  INFO 2468 --- [main] c.e.e.EmployeePortalApplicationTests     : No active profile set, falling back to default profiles: default
+2020-11-10 09:33:04.459  INFO 2468 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 09:33:04.910  INFO 2468 --- [main] c.e.e.EmployeePortalApplicationTests     : Started EmployeePortalApplicationTests in 2.68 seconds (JVM running for 3.943)
+2020-11-10 09:33:05.609  INFO 2468 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-10 09:33:58.074  INFO 21412 --- [main] c.e.e.EmployeePortalApplicationTests     : Starting EmployeePortalApplicationTests on VDELT095 with PID 21412 (started by aathithiyan.k in D:\employee-portal)
+2020-11-10 09:33:58.076  INFO 21412 --- [main] c.e.e.EmployeePortalApplicationTests     : No active profile set, falling back to default profiles: default
+2020-11-10 09:33:59.977  INFO 21412 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 09:34:00.477  INFO 21412 --- [main] c.e.e.EmployeePortalApplicationTests     : Started EmployeePortalApplicationTests in 2.681 seconds (JVM running for 4.023)
+2020-11-10 09:34:00.851  INFO 21412 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-10 09:40:58.790  INFO 8100 --- [main] c.e.e.EmployeePortalApplicationTests     : Starting EmployeePortalApplicationTests on VDELT095 with PID 8100 (started by aathithiyan.k in D:\employee-portal)
+2020-11-10 09:40:58.793  INFO 8100 --- [main] c.e.e.EmployeePortalApplicationTests     : No active profile set, falling back to default profiles: default
+2020-11-10 09:41:00.924  INFO 8100 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 09:41:01.424  INFO 8100 --- [main] c.e.e.EmployeePortalApplicationTests     : Started EmployeePortalApplicationTests in 2.943 seconds (JVM running for 4.268)
+2020-11-10 09:41:01.812  INFO 8100 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-10 09:51:24.238  INFO 14708 --- [main] c.e.e.EmployeePortalApplicationTests     : Starting EmployeePortalApplicationTests on VDELT095 with PID 14708 (started by aathithiyan.k in D:\employee-portal)
+2020-11-10 09:51:24.240  INFO 14708 --- [main] c.e.e.EmployeePortalApplicationTests     : No active profile set, falling back to default profiles: default
+2020-11-10 09:51:26.664  INFO 14708 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 09:51:27.291  INFO 14708 --- [main] c.e.e.EmployeePortalApplicationTests     : Started EmployeePortalApplicationTests in 3.349 seconds (JVM running for 4.611)
+2020-11-10 09:51:27.727  INFO 14708 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-10 09:54:09.658  INFO 21696 --- [main] c.e.e.EmployeePortalApplication          : Starting EmployeePortalApplication on VDELT095 with PID 21696 (D:\employee-portal\target\classes started by aathithiyan.k in D:\employee-portal)
+2020-11-10 09:54:09.661  INFO 21696 --- [main] c.e.e.EmployeePortalApplication          : No active profile set, falling back to default profiles: default
+2020-11-10 09:54:10.872  INFO 21696 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-10 09:54:10.881  INFO 21696 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-10 09:54:10.881  INFO 21696 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 09:54:11.037  INFO 21696 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-10 09:54:11.037  INFO 21696 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1333 ms
+2020-11-10 09:54:11.579  INFO 21696 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 09:54:11.852  WARN 21696 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2020-11-10 09:54:11.853  INFO 21696 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-10 09:54:11.855  INFO 21696 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2020-11-10 09:54:11.865  INFO 21696 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-11-10 09:54:11.874 ERROR 21696 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2020-11-10 09:56:03.633  INFO 1344 --- [main] c.e.e.EmployeePortalApplicationTests     : Starting EmployeePortalApplicationTests on VDELT095 with PID 1344 (started by aathithiyan.k in D:\employee-portal)
+2020-11-10 09:56:03.635  INFO 1344 --- [main] c.e.e.EmployeePortalApplicationTests     : No active profile set, falling back to default profiles: default
+2020-11-10 09:56:05.706  INFO 1344 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 09:56:06.163  INFO 1344 --- [main] c.e.e.EmployeePortalApplicationTests     : Started EmployeePortalApplicationTests in 2.845 seconds (JVM running for 4.222)
+2020-11-10 09:56:06.738  INFO 1344 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-10 10:08:41.527  INFO 6912 --- [main] c.e.e.EmployeePortalApplicationTests     : Starting EmployeePortalApplicationTests on VDELT095 with PID 6912 (started by aathithiyan.k in D:\employee-portal)
+2020-11-10 10:08:41.529  INFO 6912 --- [main] c.e.e.EmployeePortalApplicationTests     : No active profile set, falling back to default profiles: default
+2020-11-10 10:08:43.684  INFO 6912 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 10:08:44.166  INFO 6912 --- [main] c.e.e.EmployeePortalApplicationTests     : Started EmployeePortalApplicationTests in 2.981 seconds (JVM running for 4.625)
+2020-11-10 10:08:44.639  INFO 6912 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-10 10:14:54.036  INFO 12976 --- [main] c.e.e.EmployeePortalApplicationTests     : Starting EmployeePortalApplicationTests on VDELT095 with PID 12976 (started by aathithiyan.k in D:\employee-portal)
+2020-11-10 10:14:54.039  INFO 12976 --- [main] c.e.e.EmployeePortalApplicationTests     : No active profile set, falling back to default profiles: default
+2020-11-10 10:14:57.026  INFO 12976 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 10:14:57.703  INFO 12976 --- [main] c.e.e.EmployeePortalApplicationTests     : Started EmployeePortalApplicationTests in 4.125 seconds (JVM running for 6.026)
+2020-11-10 10:14:58.518  INFO 12976 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-10 10:18:39.943  INFO 20876 --- [main] c.e.e.EmployeePortalApplication          : Starting EmployeePortalApplication on VDELT095 with PID 20876 (D:\employee-portal\target\classes started by aathithiyan.k in D:\employee-portal)
+2020-11-10 10:18:39.946  INFO 20876 --- [main] c.e.e.EmployeePortalApplication          : No active profile set, falling back to default profiles: default
+2020-11-10 10:18:41.253  INFO 20876 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-10 10:18:41.261  INFO 20876 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-10 10:18:41.262  INFO 20876 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-10 10:18:41.353  INFO 20876 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-10 10:18:41.353  INFO 20876 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1365 ms
+2020-11-10 10:18:41.976  INFO 20876 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-10 10:18:42.296  INFO 20876 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-10 10:18:42.312  INFO 20876 --- [main] c.e.e.EmployeePortalApplication          : Started EmployeePortalApplication in 2.796 seconds (JVM running for 3.807)
+2020-11-10 10:41:22.637  INFO 20876 --- [RMI TCP Connection(33)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-11-10 10:41:22.719  INFO 20876 --- [RMI TCP Connection(33)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
